@@ -1,13 +1,13 @@
 {
     "name": "com.kirbyrawr.system.memory",
-    "version": "4.0.11-1",
+    "version": "4.0.1",
     "displayName": "System.Memory",
     "description": "This is a package that contains the 'System.Memory' library.",
     "unity": "2019.1",
     "unityRelease": "1f1",
     "dependencies": {
-      "com.kirbyrawr.system.buffers": "4.0.20-1",
-      "com.kirbyrawr.system.runtime.compilerservices.unsafe": "4.0.41-1"
+      "com.kirbyrawr.system.buffers": "4.0.2",
+      "com.kirbyrawr.system.runtime.compilerservices.unsafe": "4.0.4"
     },
     "keywords": [
       "system",
