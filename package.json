@@ -5,6 +5,10 @@
     "description": "This is a package that contains the 'System.Memory' library.",
     "unity": "2019.1",
     "unityRelease": "1f1",
+    "dependencies": {
+      "com.kirbyrawr.system.buffers": "4.0.20-1",
+      "com.kirbyrawr.system.runtime.compilerservices.unsafe": "4.0.41-1"
+    },
     "keywords": [
       "system",
       "dlls"
